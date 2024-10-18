@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Buche';
+    src: local('Buche Regular'), local('Buche-Regular'),
+        url('BucheRegular.woff2') format('woff2'),
+        url('BucheRegular.woff') format('woff'),
+        url('BucheRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
