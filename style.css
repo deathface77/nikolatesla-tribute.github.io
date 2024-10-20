@@ -95,7 +95,7 @@ a{
 .img-div{
     position: relative;
     width: 100vw;
-    height: 80vh;
+    height: 100vh;
     z-index: 1;
     background-image: url('Asset/Nikola Tesla Sitting_Up.jpg'); 
     opacity: 1;
@@ -118,7 +118,7 @@ a{
     color: white;
     text-align: center;
     padding-top: 100px;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -256,9 +256,9 @@ a{
 }
 
 a{
-    color: #854836;
+    color: #ffddaf;
 }
 
 a:hover{
-    color: azure;
+    color: #655745;
 }
