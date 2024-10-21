@@ -167,7 +167,6 @@
 
 @media (max-width: 768px){
     *{
-        outline: 1px solid red;
         overflow-x: hidden;
     }
     
@@ -317,7 +316,6 @@
 @media (max-width: 480px){
 
     *{
-        outline: 1px solid red;
         overflow-x: hidden;
     }
     
